@@ -1,0 +1,4 @@
+string[] computer_paths
+string[] camera_paths
+---
+bool success
